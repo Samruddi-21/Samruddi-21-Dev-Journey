@@ -4,3 +4,7 @@ Hi, I'm Samruddi, an engineering student interested in learning programming and 
 Learning Python
 Interested in web development
 Goal: contribute to open source
+## Projects
+
+- **Portfolio Building:** Practising C, Python, Java, Git, and GitHub.
+- **My Developer Journey:** Building my programming skills and documenting my learning progress.
