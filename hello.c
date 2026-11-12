@@ -1,3 +1,4 @@
+// Collaborative coding with Live share
 #include <stdio.h>
 
 void greet(const char *name) {
