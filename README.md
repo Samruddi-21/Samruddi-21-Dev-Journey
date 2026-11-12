@@ -8,3 +8,10 @@ Goal: contribute to open source
 
 - **Portfolio Building:** Practising C, Python, Java, Git, and GitHub.
 - **My Developer Journey:** Building my programming skills and documenting my learning progress.
+
+## Collaboration Log
+
+- **Pairing Partner:** Sangeeta
+- **GitHub Username:** sangeetabadagi19-coder
+- **Work Completed:** Collaboratively added a `greet()` function to `hello.c` using VS Code Live Share.
+- **What I Learned:** I learned how GitLens shows commit history and code authorship, and how Live Share allows two people to edit code together in real time.
